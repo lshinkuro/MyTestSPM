@@ -7,7 +7,7 @@ public struct MyLibrary {
     public init() {
     }
 
-    static func hello() {
+    public static func hello() {
         print("Hello, world!")
     }
 }
